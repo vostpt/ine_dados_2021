@@ -14,7 +14,7 @@ http://mapas.ine.pt/download/index2021.phtml
 ***
 
 ## Data Treatment
-Since geopackage **is not** a very common format VOST Portugal created a geojson version of the main files. 
+Since geopackage **is not** a very common format VOST Portugal created a geojson and kml version of the main files. 
 The files can be found [**here**](https://bit.ly/VOSTPT_INE_GEOJSON_2021)
 
 ***
